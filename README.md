@@ -16,16 +16,13 @@
 <br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="width: 300px; height: 180px; overflow: hidden;">
+  <div style="flex: 0 0 300px; height: 180px; overflow: hidden;">
     <img width="300" height="180" style="object-fit: cover;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   </div>
-  <div style="width: 300px; height: 180px; overflow: hidden;">
+  <div style="flex: 0 0 300px; height: 180px; overflow: hidden;">
     <img width="300" height="180" style="object-fit: cover;" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mariavitt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </div>
-  <br>
-  <img width="300" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
+  <div style="flex: 0 0 300px;">
+    <img width="300" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
+  </div>
 </div>
-
-
-
-
