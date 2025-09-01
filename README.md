@@ -16,7 +16,8 @@
 <br>
 
 <div align="center">
-  <img width="400" height="180" style="display: inline-block;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="400" height="180" style="display: inline-block;" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img width="400" height="180" style="display: inline-block;" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marivitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
+  <img width="400" style="display: inline-block;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="400" style="display: inline-block;" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img width="400" style="display: inline-block;" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marivitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
 </div>
+
