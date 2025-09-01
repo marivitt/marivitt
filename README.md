@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="!(https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   <img height=180 align="center" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true"/>
   <br>
   <br>
