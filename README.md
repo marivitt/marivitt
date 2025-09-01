@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=EA7EA3"/>
 
 <br>
-
-<img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-WWjCwoc#I0cm0Wj.png" />
-
-<br>
 <p align="center">
   <b>`プログラミング学生`</b>
   <br>
@@ -25,3 +21,6 @@
   <img width="400" height="180" style="display: inline-block;" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
 
 </div>
+
+<img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-WWjCwoc#I0cm0Wj.png" />
+
