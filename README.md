@@ -20,6 +20,6 @@
   <img height=180 align="center" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <br>
   <br>
- <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marivitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
+ <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marivitt&theme=dracula"/>
 </div>
 
