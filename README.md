@@ -2,6 +2,7 @@
 
 <br>
 
+<img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-n-girl-w-bangs-Z054mXf#Ayb1QN7.png" />
 <p align="center">
   <b>`プログラミング学生`</b>
   <br>
@@ -20,4 +21,5 @@
   <img width="400" height="180" style="display: inline-block;" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mariavitt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <br>
   <img width="400" height="180" style="display: inline-block;" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
+
 </div>
