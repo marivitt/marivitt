@@ -3,6 +3,8 @@
 <br>
 
 <img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-n-girl-w-bangs-Z054mXf#Ayb1QN7.png" />
+
+<br>
 <p align="center">
   <b>`プログラミング学生`</b>
   <br>
