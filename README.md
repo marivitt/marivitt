@@ -21,4 +21,3 @@
   <img width="400" style="display: inline-block;" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitt&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=400"/>
 </div>
 
-
