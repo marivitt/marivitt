@@ -2,7 +2,7 @@
 
 <br>
 
-<img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-WWjCwoc#I0cm0Wj" />
+<img allign="right" height="470" src="https://imgur.com/gallery/hello-kitty-WWjCwoc#I0cm0Wj.png" />
 
 <br>
 <p align="center">
