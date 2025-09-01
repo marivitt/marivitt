@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=EA7EA3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EA7EA3"/>
 </div>
 
 <br>
@@ -30,5 +30,27 @@
 
 </div>
 
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
 
+[![Gmail](https://img.shields.io/badge/gmail-F19FB9?style=for-the-badge&logo=gmail&logoColor=FDF0F9)](mailto:maria.vit%40rede.ulbra.br)
+[![Instagram](https://img.shields.io/badge/instagram-F19FB9?style=for-the-badge&logo=instagram&logoColor=FDF0F9)](https://www.instagram.com/wheesad/?next=%2F)
+[![Discord](https://img.shields.io/badge/discord-F19FB9?style=for-the-badge&logo=discord&logoColor=FDF0F9)](https://discord.com/users/mariderrota)
+[![Linkedin](https://img.shields.io/badge/linkedin-F19FB9?style=for-the-badge&logo=linkedin-FDF0F9)](https://www.linkedin.com/in/mariavitt)
+
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA7EA3&height=100&section=footer"/>
