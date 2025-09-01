@@ -16,9 +16,11 @@
 <br>
 
 <div align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true"/>
+  <img width="400" height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marivitt&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   <br>
-   <img height="180" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marivitt&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
- 
+  <img width="400" height="180" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marivitt&theme=dracula&hide_border=true"/>
+  <br>
+  <img width="400" height="180" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marivitt&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+  
 </div>
+
